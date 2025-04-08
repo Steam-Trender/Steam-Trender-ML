@@ -1,0 +1,26 @@
+[
+  {
+    "game_id": 12345,
+    "class": "positive",
+    "text": "This game is absolutely amazing. Loved the gameplay and graphics!",
+    "summary": "Great gameplay and visuals."
+  },
+  {
+    "game_id": 12345,
+    "class": "negative",
+    "text": "Game keeps crashing every 10 minutes. Unplayable in current state.",
+    "summary": "Crashes frequently, unplayable."
+  },
+  {
+    "game_id": 67890,
+    "class": "positive",
+    "text": "Awesome co-op experience with friends. Tons of fun and content!",
+    "summary": "Fun co-op with lots of content."
+  },
+  {
+    "game_id": 67890,
+    "class": "negative",
+    "text": "Too many bugs and performance issues. Needs more polish.",
+    "summary": "Buggy and unoptimized."
+  }
+]
